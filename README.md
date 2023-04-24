@@ -1,1 +1,1 @@
-# kakao-tech-campus-git-practice
+# kakao-git-practice
